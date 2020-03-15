@@ -1,5 +1,5 @@
 # Capstone | GA-DSI 10 Cohort
-# *** WARNING *** Potentitally offensive language can be found in this repo due to the nature of the project
+# *** WARNING *** Potentially offensive language can be found in this repo due to the nature of the project
 My final Capstone project for the GA-DSI 10 cohort!
 
 Using Keras I built a Recurrent Neural Network to generate lyrics based on a corpus of Eminem songs.
